@@ -2,3 +2,4 @@
 set -eu
 
 echo "clawd-conduit"
+# guard against empty input
