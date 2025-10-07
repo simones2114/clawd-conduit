@@ -6,3 +6,4 @@ Notes and usage details for clawd-conduit.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
