@@ -11,3 +11,4 @@ Notes and usage details for clawd-conduit.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- link the usage section
